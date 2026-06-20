@@ -1,84 +1,148 @@
-# Celebal Technologies Data Science Internship
+# 🚀 Celebal Technologies Data Science Internship
 
-This repository contains weekly assignments, projects, and learning materials completed during the **Celebal Technologies Data Science Internship Program**.
-
-## Intern Details
-
-- **Name:** Prince Atul
-- **College:** MIT-WPU
-- **Program:** MCA Science
-- **Specialization:** Data Science
-- **GitHub:** Atul-SyntexError
+This repository contains all weekly assignments, projects, and learning materials completed during the **Celebal Technologies Data Science Internship Program**.
 
 ---
 
-## Repository Structure
+## 👨‍💻 Intern Details
+
+- **Name:** Prince Atul
+- **College:** MIT World Peace University (MIT-WPU)
+- **Program:** MCA Science
+- **Specialization:** Data Science
+- **GitHub Username:** Atul-SyntexError
+
+---
+
+## 📂 Repository Structure
 
 ```
 Celebal-Technologies-Internship
 │
 ├── Week1
-│   └── DS_Week1_Assignment.ipynb
+│   └── week1_Prince_Atul.ipynb
 │
 ├── Week2
-│   └── DS_Week2_Assignment.ipynb
+│   └── week2_Prince_Atul.ipynb
 │
 ├── Week3
-│   └── DS_Week3_Assignment.ipynb
+│   └── week3_Prince_Atul.ipynb
 │
 ├── Week4
-│   └── DS_Week4_Assignment.ipynb
+│   └── week4_Prince_Atul.ipynb
 │
 ├── Week5
-│   └── DS_Week5_Assignment.ipynb
+│   └── week5_Prince_Atul.ipynb
 │
 ├── Week6
-│   └── DS_Week6_Assignment.ipynb
+│   └── week6_Prince_Atul.ipynb
 │
 ├── Week7
-│   └── DS_Week7_Assignment.ipynb
+│   └── week7_Prince_Atul.ipynb
 │
 └── Week8
-    └── DS_Week8_Assignment.ipynb
+    └── week8_Prince_Atul.ipynb
 ```
 
 ---
 
-## Technologies Used
+## 🛠 Technologies & Tools
 
 - Python
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
+- SciPy
 - Scikit-Learn
 - TensorFlow
 - Keras
-- NLP
-- RAG
-- Machine Learning
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
 - Deep Learning
+- Machine Learning
+- Google Colab
+- Jupyter Notebook
+- Git & GitHub
 
 ---
 
-## Objectives
+## 📚 Topics Covered
 
-- Data Analysis
+### Week 1
+- Python Fundamentals
+- NumPy
+- Pandas
+- Linear Algebra
+- Statistics
+- Probability Theory
+
+### Week 2
+- Exploratory Data Analysis
+- Regression Models
+- Feature Engineering
+
+### Week 3
+- Clustering
+- PCA
+- Unsupervised Learning
+
+### Week 4
+- Artificial Neural Networks
+- Convolutional Neural Networks
+
+### Week 5
+- Natural Language Processing
+- RNN
+- LSTM
+- GRU
+
+### Week 6
+- Autoencoders
+- Image Reconstruction
+
+### Week 7
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Databases
+
+### Week 8
+- AI Agents
+- Prompt Engineering
+- JSON Output Generation
+
+---
+
+## 🎯 Learning Objectives
+
+- Data Analysis and Visualization
+- Statistical Analysis
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
+- Dimensionality Reduction
 - Autoencoders
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
+- Retrieval-Augmented Generation
+- AI Agents and Prompt Engineering
 
 ---
 
-## Author
+## 📌 Internship Organization
 
-**Prince Atul**
+**Celebal Technologies**
 
-MCA Science, MIT-WPU
-
-Celebal Technologies Data Science Intern
+Data Science Internship Program
 
 ---
+
+## ✨ Author
+
+### Prince Atul
+**MCA Science (Data Science)**  
+MIT World Peace University (MIT-WPU)
+
+GitHub: **Atul-SyntexError**
+
+---
+
+⭐ *This repository showcases my learning journey and hands-on work completed during the Celebal Technologies Data Science Internship.*
